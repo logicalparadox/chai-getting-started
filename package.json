@@ -1,0 +1,20 @@
+{
+  "author": "",
+  "name": "getting_started",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "chai-spies": "*",
+    "chai-http": "*",
+    "superagent": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
