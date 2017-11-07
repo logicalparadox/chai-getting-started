@@ -6,4 +6,4 @@ installed globally.
 
 - [chai website](http://chaijs.com)
 - [chai should api](http://chaijs.com/api/bdd/)
-- [mocha](http://visionmedia.github.com/mocha/)
+- [mocha](https://mochajs.org/)
